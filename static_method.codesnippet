@@ -9,7 +9,9 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>+ (&lt;#return type#&gt;)&lt;#method name#&gt;</string>
+	<string>+ (&lt;#return type#&gt;)&lt;#method name#&gt; {
+    &lt;#code#&gt;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>386B1963-5F11-4306-B67C-073E28F64D8F</string>
 	<key>IDECodeSnippetLanguage</key>
