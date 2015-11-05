@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>_pmethod</string>
+	<string>_coll</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (&lt;#return type#&gt;)p_&lt;#method name#&gt; {
-    &lt;#code#&gt;
-}</string>
+	<string>/** Collection of &lt;#class name#&gt; objects */</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>1C554D89-42A3-478D-BCD0-5AA007BCF5CA</string>
+	<string>5EDFBB2C-9454-440A-9A28-E927C9BED594</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Instance Private Method Body</string>
+	<string>Comment For Collection of X objects</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Instance Private Method Body</string>
+	<string>Comment For Collection</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
