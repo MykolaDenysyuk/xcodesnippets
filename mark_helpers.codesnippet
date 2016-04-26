@@ -3,33 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>_tmethod</string>
+	<string>_mhelper</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)test_&lt;#method name#&gt; {
-    // setup
-    &lt;#setup code#&gt;
-    
-    // perform
-    &lt;#perform code#&gt;
-    
-    // verify
-    &lt;#verify code#&gt;
-}           </string>
+	<string>// MARK: Helpers</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>1A7AF6C1-5ABB-48F2-B5F0-44A7411E9531</string>
+	<string>D289684D-2087-47D2-92A8-7922DB3BFCBA</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Test method body declaration</string>
+	<string>helpers section title</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Test Method</string>
+	<string>Mark - Helpers</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
