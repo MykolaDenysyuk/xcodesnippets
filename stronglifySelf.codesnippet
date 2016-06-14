@@ -9,7 +9,7 @@
 		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>if let stronSelf = self {
+	<string>if let strongSelf = self {
                 &lt;#self still exists#&gt;
             }</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -23,6 +23,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
