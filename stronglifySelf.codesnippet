@@ -6,16 +6,16 @@
 	<string>_sself</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeExpression</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>if let strongSelf = self {
-                &lt;#self still exists#&gt;
-            }</string>
+	<string>guard let sself = self else { return }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A5604BA6-6E4D-4114-87DF-21F0C1AF646C</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>make weak self back strong</string>
 	<key>IDECodeSnippetTitle</key>
